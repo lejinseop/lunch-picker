@@ -1,0 +1,103 @@
+[{
+    "name": "식당1",
+    "menus": [{
+        "name": "메뉴1",
+        "price": 5000
+      },
+      {
+        "name": "메뉴2",
+        "price": 5000
+      },
+      {
+        "name": "메뉴3",
+        "price": 5000
+      }
+    ],
+    "location": "금성"
+  },
+  {
+    "name": "식당2",
+    "menus": [{
+        "name": "메뉴1",
+        "price": 5000
+      },
+      {
+        "name": "메뉴2",
+        "price": 5000
+      },
+      {
+        "name": "메뉴3",
+        "price": 5000
+      }
+    ],
+    "location": "금성"
+  },
+  {
+    "name": "식당3",
+    "menus": [{
+        "name": "메뉴1",
+        "price": 5000
+      },
+      {
+        "name": "메뉴2",
+        "price": 5000
+      },
+      {
+        "name": "메뉴3",
+        "price": 5000
+      }
+    ],
+    "location": "금성"
+  },
+  {
+    "name": "식당4",
+    "menus": [{
+        "name": "메뉴1",
+        "price": 5000
+      },
+      {
+        "name": "메뉴2",
+        "price": 5000
+      },
+      {
+        "name": "메뉴3",
+        "price": 5000
+      }
+    ],
+    "location": "금성"
+  },
+  {
+    "name": "식당5",
+    "menus": [{
+        "name": "메뉴1",
+        "price": 5000
+      },
+      {
+        "name": "메뉴2",
+        "price": 5000
+      },
+      {
+        "name": "메뉴3",
+        "price": 5000
+      }
+    ],
+    "location": "금성"
+  },
+  {
+    "name": "식당6",
+    "menus": [{
+        "name": "메뉴1",
+        "price": 5000
+      },
+      {
+        "name": "메뉴2",
+        "price": 5000
+      },
+      {
+        "name": "메뉴3",
+        "price": 5000
+      }
+    ],
+    "location": "금성"
+  }
+]

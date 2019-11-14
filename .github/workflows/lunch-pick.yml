@@ -1,0 +1,23 @@
+name: Let's pick the menu
+on:
+  push:
+    branched:
+      - master
+  schedule:
+    - cron: "30 11 * * 1,2,3,4,5"
+jobs:
+  pick:
+    name: Pick
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Use Node.js 10.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.x
+      - name: Create issue
+        run: |
+          npm ci
+          npm run pick
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
