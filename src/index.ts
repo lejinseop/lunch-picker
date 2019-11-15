@@ -6,7 +6,7 @@ function main() {
   const pickedRestaurant = restaurants[pickedRestaurantNumber] || [];
   const title = `오늘의 음식점 : ${pickedRestaurant.name}`
   const menus = pickedRestaurant.menus.map(({ name, price }) => `메뉴명 : ${name}, 가격 : ${price}`)
-  const body = [`메뉴\n${menus}`, `위치 : ${pickedRestaurant.location}`].join('\n')
+  const body = [`메뉴\n${menus.join('\n')}`, `위치 : ${pickedRestaurant.location}`].join('\n')
   createIssue(title, body)
 }
 
