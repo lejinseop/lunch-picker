@@ -1,6 +1,8 @@
-[{
+[
+  {
     "name": "계몽돈까스",
-    "menus": [{
+    "menus": [
+      {
         "name": "돈까스, 생선까스",
         "price": 7500
       },
@@ -26,7 +28,8 @@
   },
   {
     "name": "골목안 생태집",
-    "menus": [{
+    "menus": [
+      {
         "name": "생태탕",
         "price": 15000
       },
@@ -52,7 +55,8 @@
   },
   {
     "name": "육족장",
-    "menus": [{
+    "menus": [
+      {
         "name": "전통육개장",
         "price": 8000
       },
@@ -74,7 +78,8 @@
   },
   {
     "name": "유명한 참숯 닭갈비",
-    "menus": [{
+    "menus": [
+      {
         "name": "양념,궁중 숯불닭갈비",
         "price": 11000
       },
@@ -108,7 +113,8 @@
   },
   {
     "name": "호남마을",
-    "menus": [{
+    "menus": [
+      {
         "name": "우렁해물된장찌개",
         "price": 8000
       },
@@ -134,7 +140,8 @@
   },
   {
     "name": "Pho36.st",
-    "menus": [{
+    "menus": [
+      {
         "name": "소고기쌀국수",
         "price": 7500
       },
@@ -168,7 +175,8 @@
   },
   {
     "name": "소노이에",
-    "menus": [{
+    "menus": [
+      {
         "name": "뚝배기알밥",
         "price": 6000
       },
@@ -198,7 +206,8 @@
   },
   {
     "name": "예향중국요리",
-    "menus": [{
+    "menus": [
+      {
         "name": "짜장면",
         "price": 6000
       },
@@ -225,36 +234,5 @@
     ],
     "location": "서울 강남구 역삼로7길 3",
     "url": "https://store.naver.com/restaurants/detail?id=35581242"
-  },
-  {
-    "name": "장서는날",
-    "menus": [{
-      "name": "점심밥상",
-      "price": 9000
-    }],
-    "location": "서울 강남구 강남대로78길 35",
-    "url": "https://store.naver.com/restaurants/detail?id=11595227"
-  },
-  {
-    "name": "강남불백",
-    "menus": [{
-        "name": "불백정식",
-        "price": 8000
-      },
-      {
-        "name": "우삼겹정식",
-        "price": 9000
-      },
-      {
-        "name": "불낙정식",
-        "price": 9000
-      },
-      {
-        "name": "불쭈정식",
-        "price": 9000
-      }
-    ],
-    "location": "서울 강남구 강남대로78길 27",
-    "url": "https://store.naver.com/restaurants/detail?id=38002713"
   }
 ]
